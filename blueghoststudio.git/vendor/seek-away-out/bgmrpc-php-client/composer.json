@@ -1,0 +1,10 @@
+{
+	"name": "seek-away-out/bgmrpc-php-client",
+	"description": "bgmrpc php client",
+	"license": "gpl",
+	"authors" : [ { "name": "Blue Ghost", "email": "SeekAWayOut@gmail.com" } ],
+	"autoload": { "files": ["lib/bgmrpcClient.php"] },
+	"require": {
+		"textalk/websocket": "1.0.*"
+	}
+}
